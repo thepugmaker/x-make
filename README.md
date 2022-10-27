@@ -1,2 +1,2 @@
 # x-make
-This is a game engine
+This is a game engine.
